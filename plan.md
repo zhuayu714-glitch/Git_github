@@ -1,8 +1,8 @@
 # ECG in Hospitals
 ## The list of hospital is:
 ## * Angela
-## * Alice
-## *UK
+## * UCL
+## *United Kingdom
 
 ## Experiment Plan:
 ## 1
