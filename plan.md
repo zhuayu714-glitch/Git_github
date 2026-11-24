@@ -3,3 +3,8 @@
 ## * Angela
 ## * Alice
 ## *UK
+
+## Experiment Plan:
+## 1
+## 2
+## 3
